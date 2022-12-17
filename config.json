@@ -1,0 +1,9 @@
+{
+    "delay": 55,
+    "threads": 10,
+    "accountEmail": "owene865@outlook.com",
+    "accountPassword": "websterE12",
+    "autoJoin": false,
+    "sendToWebhook": true,
+    "webhookURL": "https://discord.com/api/webhooks/1053465509972168714/htLWcn1hP1EtkVlXUyFUYPQF71h5kfuaJAgqYMFIiT13VVTG86SJ_NiYg-ALXw5wQiOG"
+}
